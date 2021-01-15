@@ -1,5 +1,6 @@
 # 퀵 정렬/ quick sorted
 
+# 에러남
 # start는 시작원소, end는 끝나는 원소
 def quick_sort(data, start, end):
     if (start >= end):  # 원소가 한개인 경우
