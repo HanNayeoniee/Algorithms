@@ -2,6 +2,7 @@
 
 ### [automata님의 Python 배우기(1~50)](https://www.acmicpc.net/workbook/view/459)
 
+
 2558 : A+B-2  [문제](https://www.acmicpc.net/problem/2558)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2558.py)
 
 3046 : R2
