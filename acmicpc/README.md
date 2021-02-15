@@ -5,11 +5,11 @@
 
 2558 : A+B-2  [문제](https://www.acmicpc.net/problem/2558)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2558.py)
 
-3046 : R2
+3046 : R2  [문제](https://www.acmicpc.net/problem/3046)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/3046.py)
 
-2163 : 초콜릿 자르기
+2163 : 초콜릿 자르기  [문제](https://www.acmicpc.net/problem/2163)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2163.py)
 
-10699 : 오늘 날짜
+10699 : 오늘 날짜  [문제](https://www.acmicpc.net/problem/10699)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/10699.py)
 
 2525 : 오븐 시계
 
