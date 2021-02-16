@@ -11,13 +11,13 @@
 
 10699 : 오늘 날짜  [문제](https://www.acmicpc.net/problem/10699)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/10699.py)
 
-2525 : 오븐 시계
+2525 : 오븐 시계  [문제](https://www.acmicpc.net/problem/2525)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2525.py)
 
-2530 : 인공지능 시계
+2530 : 인공지능 시계  [문제](https://www.acmicpc.net/problem/2530)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2530.py)
 
-2914 : 저작권
+2914 : 저작권  [문제](https://www.acmicpc.net/problem/2914)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2914.py)
 
-5355 : 화성 수학
+5355 : 화성 수학 
 
 2675 : 문자열 반복
 
