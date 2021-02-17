@@ -33,7 +33,7 @@
 
 2753 : 윤년
 
-10039 : 평균 점수
+10039 : 평균 점수  [문제](https://www.acmicpc.net/problem/10039)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/10039.py)
 
 1934 : 최소공배수
 
@@ -47,10 +47,9 @@
 
 2476 : 주사위 게임
 
-2754 : 학점계산
+2754 : 학점계산  [문제](https://www.acmicpc.net/problem/2754)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2754.py)
 
 2884 : 알람 시계
-
 
 7567 : 그릇
 
@@ -64,14 +63,13 @@
 
 5086 : 배수와 약수
 
-5717 : 상근이의 친구들
+5717 : 상근이의 친구들  [문제](https://www.acmicpc.net/problem/5717)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/5717.py)
 
 9610 : 사분면
 
 8958 : OX퀴즈
 
 9506 : 약수들의 합
-
 
 10162 : 전자레인지
 
