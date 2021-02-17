@@ -61,7 +61,7 @@
 
 10988 : 팰린드롬인지 확인하기
 
-5086 : 배수와 약수
+5086 : 배수와 약수  [문제](https://www.acmicpc.net/problem/5086)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/5086.py)
 
 5717 : 상근이의 친구들  [문제](https://www.acmicpc.net/problem/5717)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/5717.py)
 
