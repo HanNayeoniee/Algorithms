@@ -17,11 +17,11 @@
 
 2914 : 저작권  [문제](https://www.acmicpc.net/problem/2914)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2914.py)
 
-5355 : 화성 수학 
+5355 : 화성 수학  [문제](https://www.acmicpc.net/problem/5355)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/5355.py)
 
 2675 : 문자열 반복
 
-2935 : 소음
+2935 : 소음  [문제](https://www.acmicpc.net/problem/2935)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2935.py)
 
 9498 : 시험 성적
 
@@ -43,7 +43,7 @@
 
 10156 : 과자
 
-3009 : 네 번째 점
+3009 : 네 번째 점  [문제](https://www.acmicpc.net/problem/3009)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/3009.py)
 
 2476 : 주사위 게임
 
