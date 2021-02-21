@@ -45,7 +45,7 @@
 
 3009 : 네 번째 점  [문제](https://www.acmicpc.net/problem/3009)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/3009.py)
 
-2476 : 주사위 게임
+2476 : 주사위 게임  [문제](https://www.acmicpc.net/problem/2476)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2476.py)
 
 2754 : 학점계산  [문제](https://www.acmicpc.net/problem/2754)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/2754.py)
 
@@ -65,7 +65,7 @@
 
 5717 : 상근이의 친구들  [문제](https://www.acmicpc.net/problem/5717)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/5717.py)
 
-9610 : 사분면
+9610 : 사분면  [문제](https://www.acmicpc.net/problem/9610)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/9610.py)
 
 8958 : OX퀴즈
 
@@ -73,7 +73,7 @@
 
 10162 : 전자레인지
 
-10103 : 주사위 게임
+10103 : 주사위 게임  [문제](https://www.acmicpc.net/problem/10103)  [코드](https://github.com/HanNayeoniee/Algorithms/blob/master/acmicpc/10103.py)
 
 10214 : Baseball
 
